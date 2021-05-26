@@ -1,0 +1,8 @@
+privacyidea
+Jinja2<3
+Werkzeug<2
+click<8
+flask<2
+itsdangerous<2
+pyjwt<2
+sqlalchemy<1.4
